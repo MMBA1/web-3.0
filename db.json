@@ -1,0 +1,17 @@
+{
+  "users":[
+    {
+      "id":1,
+      "name":"Nadejda",
+      "surname":"Grubneac",
+      "balance":2000
+}
+    {
+      "id":2,
+      "name":"Mihai",
+      "surname":"Maiorov",
+      "balance":2000
+    }
+    
+    ]
+}
